@@ -25,4 +25,4 @@ When the customer is ready to check out, they can click the "Order" button, whic
 
 ![Screenshot (132)](https://user-images.githubusercontent.com/83365540/224144249-d1550215-b061-441a-9653-a897390fe087.png)
 
-![Screenshot (131)](https://user-images.githubusercontent.com/83365540/224144258-6fb36b12-4496-4fa0-925b-5651f0b92429.png)
+![Screenshot (131)](https://user-images.githubusercontent.com/83365540/232583816-6e977d72-b1b2-4443-a2b9-399741acd708.png)
